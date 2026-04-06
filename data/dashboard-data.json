@@ -1,0 +1,41 @@
+{
+  "lastUpdated": "2026-04-06T20:54:00+08:00",
+  "agents": [
+    {
+      "id": "1",
+      "name": "文档助手",
+      "type": "文档处理",
+      "status": "running",
+      "currentTask": "正在写季度报告",
+      "startedAt": "10分钟前",
+      "model": "sonnet"
+    },
+    {
+      "id": "2",
+      "name": "数据查询员",
+      "type": "数据查询",
+      "status": "idle",
+      "currentTask": "等待任务",
+      "startedAt": "-",
+      "model": "haiku"
+    },
+    {
+      "id": "3",
+      "name": "浏览器自动化",
+      "type": "浏览器操作",
+      "status": "error",
+      "currentTask": "页面加载超时",
+      "startedAt": "25分钟前",
+      "model": "sonnet"
+    },
+    {
+      "id": "4",
+      "name": "邮件助手",
+      "type": "消息通知",
+      "status": "running",
+      "currentTask": "发送每日简报",
+      "startedAt": "3分钟前",
+      "model": "haiku"
+    }
+  ]
+}
